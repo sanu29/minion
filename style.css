@@ -36,6 +36,7 @@ nav {
 textarea {
     margin: 0rem;
     box-sizing: border-box;
+    Border:solid 1px;
     display: block;
     width: 100%;
     min-height: 20vh;
