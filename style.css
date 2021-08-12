@@ -57,6 +57,7 @@ button {
     padding: 1rem 2rem;
     font-family: 'Kalam', cursive;
     font-size: large;
+    cursor:pointer;
 }
 
 
